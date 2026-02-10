@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "475539546796",
+    "project_id": "gersha-a6677",
+    "storage_bucket": "gersha-a6677.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475539546796:android:ef756c3184662a7f71b509",
+        "android_client_info": {
+          "package_name": "com.example.gersha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475539546796-hkkmuraadou1ge2am50bamo3al92ueod.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gersha",
+            "certificate_hash": "ce33f0851ac8ebc6b52f981ae7d53a03934a66b8"
+          }
+        },
+        {
+          "client_id": "475539546796-3j47bov2e61h8i7dj1va394na9h7k23e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZaGXxLLudLZuUtJ1kVe0z8uIVvBQwcj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475539546796-3j47bov2e61h8i7dj1va394na9h7k23e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
